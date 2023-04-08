@@ -1,6 +1,6 @@
 # prebuild-BN
 
-取自https://github.com/dfinity-side-projects/bn中预编译好bn库的内容，适用于ubuntu 20.04和debian 11
+取自https://github.com/dfinity-side-projects/bn 中预编译好bn库的内容，适用于ubuntu 20.04和debian 11
 
 出处说明如下：
 
